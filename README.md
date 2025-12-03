@@ -135,7 +135,6 @@ All the goodies—socials, projects, courses, and more—can be found through my
   alt="VScode" 
   title="VScode" 
   width="30px" 
-  style="padding-right:10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 <br><br>
 
