@@ -3,27 +3,27 @@
 # Kyra Martín Aguilera<img src="https://i.pinimg.com/originals/45/09/95/450995c409e44cfd55d293757ab7b4ca.gif"  width="100px">
 
   <p align="left">
-    <a href="https://www.youtube.com/c/niladoze?sub_confirmation=1" target='_blank'>
+    <a href="https://www.youtube.com/@niladoze?sub_confirmation=1" target="blank">
          <img 
            alt="youtube subscribers" 
            title="Subscribe to my YouTube channel" 
            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCc02mdWfHy1q7LQMsAbxTxg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
-    <a href="https://www.instagram.com/taigachan.0012/" target="_blank">
+    <a href="https://www.instagram.com/taigachan.0012/" target="blank">
       <img 
         alt="Instagram Followers" 
         title="Follow me on Instagram" 
         src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
-    <a href="https://github.com/niladoze?tab=followers"  target='_blank'>
+    <a href="https://github.com/niladoze?tab=followers"  target="blank">
       <img 
         alt="followers" 
         title="Follow me on Github" 
         src="https://custom-icon-badges.demolab.com/github/followers/niladoze?color=55960c&labelColor=488207&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-    <a href="https://kma-courses.netlify.app/" target='_blank'>
+    <a href="https://kma-courses.netlify.app/" target="blank">
         <img
           alt="My Courses" 
           title="Check out my LearnHub" 
           src="https://custom-icon-badges.demolab.com/badge/Guides-236ad3?style=for-the-badge&labelColor=115c9e&logo=book&logoColor=white"/></a> &nbsp;&nbsp;
-      <a href='https://ko-fi.com/E1E81N703B' target='_blank'>
+      <a href='https://ko-fi.com/E1E81N703B' target='blank'>
         <img 
           height='36' 
           style='border:0px;height:36px;' 
