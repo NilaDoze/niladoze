@@ -152,7 +152,8 @@ All the goodies—socials, projects, courses, and more—can be found through my
 <br><br><br><br>
 
 <h2 align="center">
-  Listening Activity<br><br>
+  Listening Activity&nbsp;&nbsp;&nbsp;<a href="https://open.spotify.com/user/t9p4tub07xkfoql06oskvovpd?si=b056c17e7586432f" ><img align="center" alt="Spotify" title="KMA Spotify" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" /></a>
+  <br><br> 
 </h2>
 
 <p align="center">
