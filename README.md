@@ -32,7 +32,7 @@
 
 Hey, I’m Kyra. I create stuff—code, guides, projects, and videos—breaking things down so anyone can follow along. I focus on building things thoughtfully, explaining how they work, and giving people the tools I thought would make life slightly less miserable :D 
 
-All the goodies—socials, projects, courses, and more—can be found through my [Linktree](https://github.com/KMA-Websites/linktree).
+All the goodies—socials, projects, courses, and more—can be found through my [Linktree](https://kma-websites.github.io/linktree/).
 <br><br>
 
 >Most of the time, you’ll find me in my little cave, cooking up clinically insane, farfetched ideas and scheming the world’s demise with my imaginary cats. So, with that said, go follow your dreams, sweet child.
