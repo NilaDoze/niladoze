@@ -41,7 +41,7 @@ All the goodies—socials, projects, courses, and more—can be found through my
 
 🔗 &nbsp;**Links, CV & Portfolio**
 <br><br>
-  <a href="https://github.com/KMA-Websites/linktree" target="blank">
+  <a href="https://kma-websites.github.io/linktree/" target="blank">
     <img
       align="center"
       src="https://github.com/NilaDoze/niladoze/raw/main/img/linktree.png" 
