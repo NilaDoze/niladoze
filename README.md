@@ -70,21 +70,18 @@ All the goodies—socials, projects, courses, and more—can be found through my
   alt="Premiere Pro" 
   title="Premiere Pro" 
   width="30px" 
-  style="padding-right:10px;" 
   src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png" />
 <img 
   align="left" 
   alt="Photoshop" 
   title="Photoshop" 
   width="30px" 
-  style="padding-right:10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 <img 
   align="left" 
   alt="Indesign" 
   title="Indesign" 
   width="30px" 
-  style="padding-right:10px;" 
   src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/1200px-Adobe_InDesign_CC_icon.svg.png" />
 <br><br>
  
@@ -95,40 +92,34 @@ All the goodies—socials, projects, courses, and more—can be found through my
   alt="Git" 
   title="Git" 
   width="30px" 
-  style="padding-right:10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img 
   align="left" 
   alt="HTML" title="HTML" 
   width="30px" 
-  style="padding-right:10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img 
   align="left"
   alt="CSS" title="CSS" 
   width="30px" 
-  style="padding-right:10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img 
   align="left" 
   alt="JavaScript" 
   title="JavaScript" 
   width="30px" 
-  style="padding-right:10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img 
   align="left" 
   alt="NodeJS" 
   title="NodeJS" 
   width="30px" 
-  style="padding-right:10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img 
   align="left" 
   alt="Bootstrap" 
   title="Bootstrap" 
   width="30px" 
-  style="padding-right:10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 <img 
   align="left" 
@@ -145,21 +136,18 @@ All the goodies—socials, projects, courses, and more—can be found through my
   alt="Blender" 
   title="Blender" 
   width="30px" 
-  style="padding-right:10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
 <img 
   align="left" 
   alt="Figma" 
   title="Figma" 
   width="30px" 
-  style="padding-right:10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <img 
   align="left" 
   alt="Canva" 
   title="Canva" 
   width="30px" 
-  style="padding-right:10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
 <br><br><br><br>
 
