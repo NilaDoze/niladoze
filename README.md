@@ -30,7 +30,7 @@
         src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
  </p>
 
-Hey, I’m Kyra. I create stuff—code, guides, projects, and videos—breaking things down so anyone can follow along. I focus on building things thoughtfully, explaining how they work, and giving people the tools I thought would make life slightly less miserable :D 
+Hey, I’m **Kyra**. I create stuff—code, guides, projects, and videos—breaking things down so anyone can follow along. I focus on building things thoughtfully, explaining how they work, and giving people the tools I thought would make life slightly less miserable :D 
 
 All the goodies—socials, projects, courses, and more—can be found through my [Linktree](https://kma-websites.github.io/linktree/).
 <br><br>
