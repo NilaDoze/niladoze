@@ -18,7 +18,7 @@
       alt="Github Followers" 
       title="Follow me on Github" 
       src="https://custom-icon-badges.demolab.com/github/followers/niladoze?color=55960c&labelColor=488207&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://kma-courses.netlify.app/" target="blank">
+  <a href="https://kma-guides.netlify.app/" target="blank">
       <img
         alt="My Courses" 
         title="Check out my LearnHub" 
