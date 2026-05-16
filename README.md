@@ -70,7 +70,7 @@ All the goodies—socials, projects, courses, and more—can be found through my
   alt="Premiere Pro" 
   title="Premiere Pro" 
   width="30px" 
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png" />
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/960px-Adobe_Premiere_Pro_CC_icon.svg.png" />
 <img 
   align="left" 
   alt="Photoshop" 
@@ -82,7 +82,7 @@ All the goodies—socials, projects, courses, and more—can be found through my
   alt="Indesign" 
   title="Indesign" 
   width="30px" 
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/1200px-Adobe_InDesign_CC_icon.svg.png" />
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/960px-Adobe_InDesign_CC_icon.svg.png" />
 <br><br>
  
 **Languages and Tools**
